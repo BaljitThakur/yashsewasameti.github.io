@@ -1,2 +1,2 @@
 # yashsewasameti.github.io
-Event page
+https://baljitthakur.github.io/yashsewasameti.github.io/index.html
