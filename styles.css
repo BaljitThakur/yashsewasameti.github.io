@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+.carousel .carousel-item {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+#img{
+	max-height:300px;
+	width:100%; 
+}
+#card1{
+	border: grey solid 1px;
+	margin-top: 40px;
+}
+#card1 img{
+    max-height: 300px;
+    width:100%;
+}
+#img0{
+	width: 100%;
+	height: 100%;
+}
+#divider{
+	height: 40px;
+	background: linear-gradient(to right, #3399ff 0%, #ff5050 100%);
+    margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+footer{
+	height: 100px;
+	background-color: gray;
+	opacity: 0.3;
+	text-align: center;
+}
